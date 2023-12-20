@@ -7,5 +7,5 @@ Educentral is a console-based College Management System written in C++. It provi
 - **Course Management:** Manage courses, including adding new courses and updating existing ones.
 - **Teachets Management:** Keep track of teachers details.
 - **Attendance System:** Record and view student attendance.
-- **Announcement and Feedback** Announcemnts and feedback fweature foe enhanced communication between users.
+- **Announcement and Feedback** Announcemnts and feedback features for enhanced communication between users.
 - **User-Friendly Interface:** Intuitive console-based interface for easy navigation.
